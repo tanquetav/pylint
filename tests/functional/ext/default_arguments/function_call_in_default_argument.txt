@@ -1,0 +1,10 @@
+function-call-in-default-argument:13:17:13:30:bad_call:Function call 'default_key()' in default argument is evaluated once, at definition time:INFERENCE
+function-call-in-default-argument:17:22:17:35:bad_kwonly:Function call 'default_key()' in default argument is evaluated once, at definition time:INFERENCE
+function-call-in-default-argument:21:27:21:38:bad_attribute_call:Function call 'time.time()' in default argument is evaluated once, at definition time:INFERENCE
+function-call-in-default-argument:25:23:25:36:bad_nested:Function call 'default_key()' in default argument is evaluated once, at definition time:INFERENCE
+function-call-in-default-argument:29:29:29:39:bad_expression:Function call 'len()' in default argument is evaluated once, at definition time:INFERENCE
+function-call-in-default-argument:33:14:33:27:bad_two:Function call 'default_key()' in default argument is evaluated once, at definition time:INFERENCE
+function-call-in-default-argument:33:31:33:44:bad_two:Function call 'default_key()' in default argument is evaluated once, at definition time:INFERENCE
+function-call-in-default-argument:37:24:37:37:bad_async:Function call 'default_key()' in default argument is evaluated once, at definition time:INFERENCE
+function-call-in-default-argument:43:29:43:42:Klass.bad_method:Function call 'default_key()' in default argument is evaluated once, at definition time:INFERENCE
+function-call-in-default-argument:47:24:47:37:<lambda>:Function call 'default_key()' in default argument is evaluated once, at definition time:INFERENCE
